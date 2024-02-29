@@ -1,0 +1,8 @@
+First install and set up expo as instrucred in setting expo project
+Then, create a folder navigation, and a folder screens in it to store all the screens.
+All the pictures will be stored in assets folder.
+In assets folder will be fonts folder which have fonts.
+setup fonts as provided on the webpage: https://blog.logrocket.com/adding-custom-fonts-react-native/
+App.js will contain all the screens in a navigation container
+install all the extensions and required packages
+if you get any errors check the compatibility of your packages with each other. You can reset cache or delete node_modules files and install it again by the command of npm install to set the packages in case of any errors.
